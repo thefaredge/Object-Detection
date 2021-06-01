@@ -23,6 +23,6 @@ pytz==2017.2
 requests==2.18.1
 six==1.10.0
 tensorflow==1.2.0
-urllib3==1.21.1
+urllib3==1.26.5
 watson-developer-cloud==0.26.0
 Werkzeug==0.12.2
