@@ -10,7 +10,7 @@ html5lib==0.9999999
 idna==2.5
 Markdown==2.2.0
 matplotlib==2.0.2
-numpy==1.13.0
+numpy==1.22.0
 olefile==0.44
 Pillow==4.1.1
 protobuf==3.3.0
